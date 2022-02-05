@@ -2,7 +2,7 @@
 - 👀 I’m interested in Geophysic, 
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me liahaolia23@gmail.com
+- 📫 How to reach me haoliaaul@gmail.com
 
 <!---
 haolia/haolia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
