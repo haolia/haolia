@@ -1,4 +1,6 @@
-### :ok_woman: **Hello, I’m Haolia and I live to solve problems using analytics!**
+
+# :wave::wave:         Hello, I’m Haolia     :ok_woman:
+### **I live to solve problems using analytics!** 
 
 #### 📊 I attained my Bachelor of **Geophysical Engineering** in **Universitas Pertamina** in 2020. Through the experience of doing my final project before graduation, with the title: **"The Tectonic Pattern of the Sunda-Banda Arc Transition Zone based on Double Difference Tomography"**, I found myself naturally drawn towards data science through my passion for data and statistics. For me, data analysis is a way to identify patterns, detect key issues among outliers and tell valuable stories to make an impact. That's why in 2021, I decided to go deep and move on to data science!
 
@@ -15,6 +17,13 @@
 ```
    ... “You said I dream too big, I said you think too small.”
 ```
+
+### :computer:Languages and Tools:
+- [x] Python
+- [x] PostgreSQL
+- [x] Microsoft Excel
+- [x] Tableau
+- [x] R
 #### 👉 Reach out to me via LinkedIn **https://www.linkedin.com/in/haolia-haolia-490587137/**
 
 
