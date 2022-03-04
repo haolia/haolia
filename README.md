@@ -4,7 +4,7 @@
 
 ✍️ To improve my knowledge as a data scientist, I'm currently pursuing Bootcamp Data Science Rakamin Academy, where I have developed skills in statistical analysis, computer programming, algorithm design, and working with big data sets in a supercomputing environment. 
 
-✨ I rely on using SQL to obtain and prepare my data, heavily utilizing Python and R to clean, analyze, visualize and perform machine learning on big data sets. 
+✨ I rely on using SQL to obtain and prepare my data, heavily utilizing Python to clean, analyze, visualize and perform machine learning on big data sets. 
 
 💭Quotes I Lived By:
 “You said I dream too big, I said you think too small.”
