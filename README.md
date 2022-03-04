@@ -8,14 +8,13 @@
 
 :smiley: Fun facts:
 
-✨ Spend hours to beautify my code and GitHub markdown because my OCD cannot stand reading sloppy documentation.
+    ✨ Spend hours to beautify my code and GitHub markdown because my OCD cannot stand reading sloppy documentation.
 
-🤔 I don’t trust people who don’t write SQL queries in uppercase.
+    🤔 I don’t trust people who don’t write SQL queries in uppercase.
 
-📈 Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve interesting novel business problems.
+    📈 Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve interesting novel business problems.
 
-:thought_balloon: Quotes I Lived By:
-“You said I dream too big, I said you think too small.”
+    :thought_balloon: Quotes I Lived By: “You said I dream too big, I said you think too small.”
 
 👉 Reach out to me via LinkedIn https://www.linkedin.com/in/haolia-haolia-490587137/
 
