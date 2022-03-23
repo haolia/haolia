@@ -25,6 +25,7 @@
 -  [x] Microsoft Excel
 -  [x] Tableau
 -  [x] R
+   
 #### 👉 Reach out to me via *[LinkedIn](https://www.linkedin.com/in/haolia-haolia-490587137/)* 
 
 </p align="justified">
