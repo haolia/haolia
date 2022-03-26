@@ -1,8 +1,7 @@
 #  <p align="center">  :wave::wave:         Hello, I’m Haolia     :ok_woman:
 ### **I live to solve problems using analytics!** 
 
-[<img align="right" height="400" alt="🦑" src="https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png">](#)  
-
+[<img align="right" height="350" alt="🦑" src="https://user-images.githubusercontent.com/36781269/160224716-f0bfcf30-4ce2-4926-b753-e465492fbb78.png">](#)  
    
 #### <p align="justified">  📊 I attained my Bachelor of **Geophysical Engineering** in **Universitas Pertamina** in 2020. Through the experience of doing my final project before graduation, with the title: **"The Tectonic Pattern of the Sunda-Banda Arc Transition Zone based on Double Difference Tomography"**, I found myself naturally drawn towards data science through my passion for data and statistics. For me, data analysis is a way to identify patterns, detect key issues among outliers and tell valuable stories to make an impact. That's why in 2021, I decided to go deep and move on to data science! 
 
@@ -14,11 +13,13 @@
 
 
 
+
    #### :smiley: :smiley: **Fun facts:**
 
    ##### ✨ Spend hours to beautify my code and GitHub markdown because my OCD cannot stand reading sloppy documentation.
-   ##### 🤔 I don’t trust people who write SQL queries in lowercase.
-   ##### 📈 Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve interesting novel business problems.
+   ##### 😲 I don’t trust people who write SQL queries in lowercase.
+   ##### 📈 Interested in Predictive Analytics, Machine Learning and applying statistical models to solve interesting business problems.
+   
    :thought_balloon: Quotes I Lived By: 
 `... “You said I dream too big, I said you think too small.” `
    
