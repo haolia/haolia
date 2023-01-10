@@ -5,7 +5,7 @@
    
 #### <p align="justified">  📊 I attained my Bachelor of **Geophysical Engineering** in **Universitas Pertamina** in 2020. Through the experience of doing my final project before graduation, with the title: **"The Tectonic Pattern of the Sunda-Banda Arc Transition Zone based on Double Difference Tomography"**, I found myself naturally drawn towards data science through my passion for data and statistics. For me, data analysis is a way to identify patterns, detect key issues among outliers and tell valuable stories to make an impact. That's why in 2021, I decided to go deep and move on to data science! 
 
-#### <p align="justified"> ✍️ To improve my knowledge as a data scientist, I'm currently pursuing Bootcamp Data Science Rakamin Academy, where I have developed skills in statistical analysis, computer programming.
+#### <p align="justified"> ✍️ To improve my knowledge as a data scientist, I'm pursuing Bootcamp Data Science Rakamin Academy, where I have developed skills in statistical analysis and computer programming.
    
 
 
